@@ -14,7 +14,8 @@
   "main": "script.js",
   "type": "module",
   "scripts": {
-    "start": "node script.js"
+    "start": "node script.js",
+    "script":"nodemon script.js"
   },
   "repository": {
     "type": "git",
